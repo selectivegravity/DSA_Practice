@@ -1,0 +1,1 @@
+{"name":"Local: smallest_missing","url":"c:\\Users\\91966\\Desktop\\C++\\Lecture 24\\smallest_missing.cpp","tests":[{"id":1613901721982,"input":"6\n0 -9 1 3 -4 6","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\91966\\Desktop\\C++\\Lecture 24\\smallest_missing.cpp","group":"local","local":true}

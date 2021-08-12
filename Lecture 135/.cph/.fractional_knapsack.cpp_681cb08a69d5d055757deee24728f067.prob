@@ -1,0 +1,1 @@
+{"name":"Local: fractional_knapsack","url":"c:\\Users\\91966\\Desktop\\C++\\Lecture 135\\fractional_knapsack.cpp","tests":[{"id":1622144159029,"input":"5 20\n5 40 \n4 24 \n6 30\n7 21 \n6 12\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\91966\\Desktop\\C++\\Lecture 135\\fractional_knapsack.cpp","group":"local","local":true}

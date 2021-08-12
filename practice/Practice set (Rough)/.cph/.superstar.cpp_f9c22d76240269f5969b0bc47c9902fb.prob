@@ -1,0 +1,1 @@
+{"name":"Local: superstar","url":"c:\\Users\\91966\\Desktop\\C++\\practice\\superstar.cpp","tests":[{"id":1617449966660,"input":"1\n3 3 4\n4 4 4\n3 4 4 \n4 4 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\91966\\Desktop\\C++\\practice\\superstar.cpp","group":"local","local":true}

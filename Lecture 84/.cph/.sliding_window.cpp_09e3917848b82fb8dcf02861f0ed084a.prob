@@ -1,0 +1,1 @@
+{"name":"Local: sliding_window","url":"c:\\Users\\91966\\Desktop\\C++\\Lecture 84\\sliding_window.cpp","tests":[{"id":1617307163991,"input":"6 3\n3 4 9 1 -4 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\91966\\Desktop\\C++\\Lecture 84\\sliding_window.cpp","group":"local","local":true}
